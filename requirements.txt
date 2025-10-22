@@ -1,0 +1,15 @@
+# Core
+openai>=1.40.0
+python-dotenv>=1.0.1
+requests>=2.32.3
+
+# Agent frameworks
+langchain>=0.2.0
+langgraph>=0.2.26
+crewai>=0.60.0
+autogen-agentchat>=0.2.0
+
+# Utilities
+pydantic>=2.7.0
+tiktoken>=0.7.0
+rich>=13.7.1
