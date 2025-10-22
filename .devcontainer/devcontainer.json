@@ -5,7 +5,6 @@
     "ghcr.io/devcontainers/features/node:1": { "version": "lts" }
   },
   "postCreateCommand": "pip install --upgrade pip && pip install -r .devcontainer/requirements.txt",
-",
   "customizations": {
     "vscode": {
       "extensions": [
